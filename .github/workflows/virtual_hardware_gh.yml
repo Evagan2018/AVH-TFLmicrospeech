@@ -56,7 +56,7 @@ jobs:
            eventlist-linux64/eventlist -s ./Platform_FVP_Corstone_SSE-300_Ethos-U55/microspeech.SIMD.EventRecorder.log 
            eventlist-linux64/eventlist -s ./Platform_FVP_Corstone_SSE-300_Ethos-U55/microspeech.Helium.EventRecorder.log 
            
-      - uses: actions/upload-artifact@v3
+      - uses: actions/upload-artifact@v6
         with:
           name: elf-image-file
           path: Platform_FVP_Corstone_SSE-300_Ethos-U55/Objects/microspeech.Helium.axf
