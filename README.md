@@ -1,3 +1,6 @@
+[![License](https://img.shields.io/github/license/Arm-Software/AVH-TFLmicrospeech?label=License)](https://github.com/Arm-Software/AVH-MLOPs/blob/main/LICENSE)
+[![Virtual Hardware Github Hosted Runner](https://img.shields.io/github/actions/workflow/status/Arm-Software/AVH-TFLmicrospeech/virtual_hardware_gh.yml?logo=arm&logoColor=0091bd&label=Virtual%20Hardware%20Github%20Hosted%20Runner)](https://github.com/Arm-Software/AVH-TFLmicrospeech/tree/main/.github/workflows/virtual_hardware_gh.yml)
+[![Virtual Hardware Self Hosted Runner](https://img.shields.io/github/actions/workflow/status/Arm-Software/AVH-TFLmicrospeech/virtual_hardware_sh.yml?logo=arm&logoColor=0091bd&label=Virtual%20Hardware%20Github%20Hosted%20Runner)](https://github.com/Arm-Software/AVH-TFLmicrospeech/tree/main/.github/workflows/virtual_hardware_sh.yml)
 
 # Micro speech example for TensorFlow Lite
 
